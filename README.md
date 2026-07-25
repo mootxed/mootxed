@@ -1,19 +1,19 @@
 <table border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse; border: none;">
   <tr style="border: none;">
-    <td valign="top" width="60%" style="border: none;">
+    <td valign="top" width="40%" style="border: none;">
 
 <img src="./banner.svg" alt="はじめまして" height="32" />
 
 <br>
 
-Я **mootxed** — изучаю DevOps, Linux и автоматизации. 
+Я **mootxed** — изучаю DevOps, Linux и автоматизацию. 
 
-Также увлечён изучением японского языка.
+Также изучаю японский язык и создаю инструменты для его изучения.
 
 </td>
-    <td valign="top" width="40%" align="right" style="border: none;">
+    <td valign="top" width="60%" align="right" style="border: none;">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mootxed&theme=default&hide_border=true" height="170" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mootxed&theme=default" height="170" />
 
 </td>
   </tr>
@@ -28,5 +28,8 @@
 
 ---
 
-### 🚀 Главный проект
-* **[Kitsune-GENKI](https://github.com/mootxed/Kitsune-GENKI)** — PWA-приложение для изучения японского языка (IndexedDB, FSRS, офлайн-режим, автоматизация CI/CD).
+### 🦊 [Kitsune-GENKI](https://github.com/mootxed/Kitsune-GENKI)
+
+> Офлайн-приложение для изучения японского языка.
+
+`FSRS` • `IndexedDB` • `PWA` • `CI/CD`
