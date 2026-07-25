@@ -1,1 +1,1 @@
-# Halo
+<img src="banner.svg">
