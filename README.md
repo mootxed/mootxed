@@ -1,14 +1,23 @@
+<table border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse; border: none;">
+  <tr style="border: none;">
+    <td valign="top" width="60%" style="border: none;">
+
 <img src="./banner.svg" alt="はじめまして" height="32" />
 
 <br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mootxed&theme=default&hide_border=true" align="right" height="95" />
 
 Я **mootxed** — развиваюсь в DevOps, Linux и автоматизации. 
 
 Также увлечён изучением японского языка.
 
-<br clear="both"/>
+</td>
+    <td valign="top" width="40%" align="right" style="border: none;">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mootxed&theme=default&hide_border=true" height="170" />
+
+</td>
+  </tr>
+</table>
 
 ---
 
