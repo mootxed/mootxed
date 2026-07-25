@@ -1,1 +1,1 @@
-<img src="banner.svg">
+<img src="./banner.svg" alt="はじめまして" height="32" />
