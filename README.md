@@ -28,7 +28,7 @@
 
 ---
 
-### 🦊 [Kitsune-GENKI](https://github.com/mootxed/Kitsune-GENKI)
+### 🦊 [KotoKitsu](https://github.com/mootxed/KotoKitsu)
 
 > Офлайн-приложение для изучения японского языка.
 
